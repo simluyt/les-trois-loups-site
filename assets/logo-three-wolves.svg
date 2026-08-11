@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 116 54" role="img" aria-labelledby="title desc">
+  <title id="title">Les Trois Loups</title>
+  <desc id="desc">Drie geometrische wolvenkoppen in lijntekening</desc>
+  <g fill="none" stroke="#123b4a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path opacity=".58" d="M4 43 8 27 7 7l12 11L29 6l3 20 10 8-6 9-12 6-12-4Z"/>
+    <path opacity=".58" d="m14 31 7-3 6 2m-5 10 5 2 5-3"/>
+    <path d="m38 45 4-19-1-22 15 13L68 3l4 22 11 9-7 10-14 7-14-4Z"/>
+    <path d="m49 30 8-3 8 3m-6 11 5 2 6-4"/>
+    <path opacity=".58" d="m76 43 4-17-1-20 13 12 11-11 3 20 7 8-6 9-12 5-11-4Z"/>
+    <path opacity=".58" d="m87 30 7-2 7 3m-6 10 5 2 5-3"/>
+  </g>
+</svg>
