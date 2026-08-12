@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://simluyt.github.io/les-trois-loups-site/sitemap.xml
