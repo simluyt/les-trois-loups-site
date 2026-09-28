@@ -207,10 +207,10 @@ input, select, textarea {
   letter-spacing: 0;
 }
 .brand-mark {
-  width: 52px;
-  height: 34px;
+  width: 72px;
+  height: 44px;
   object-fit: contain;
-  flex: 0 0 52px;
+  flex: 0 0 72px;
 }
 .nav-links {
   display: flex;
@@ -275,9 +275,9 @@ input, select, textarea {
     white-space: nowrap;
   }
   .brand-mark {
-    width: 46px;
-    height: 31px;
-    flex: 0 0 46px;
+    width: 64px;
+    height: 38px;
+    flex: 0 0 64px;
   }
   .nav-right {
     gap: 8px;
@@ -1071,7 +1071,7 @@ section.block { padding: clamp(50px, 7vw, 110px) 0; position: relative; }
 }
 .owner-note {
   display: grid;
-  grid-template-columns: 46px 1fr;
+  grid-template-columns: 64px 1fr;
   gap: 12px;
   align-items: center;
   padding: 18px 0 0;
@@ -1079,13 +1079,13 @@ section.block { padding: clamp(50px, 7vw, 110px) 0; position: relative; }
   background: transparent;
 }
 .owner-avatar {
-  width: 46px;
-  height: 36px;
+  width: 64px;
+  height: 40px;
   display: grid;
   place-items: center;
   background: transparent;
 }
-.owner-avatar img { width: 46px; height: 36px; object-fit: contain; }
+.owner-avatar img { width: 64px; height: 40px; object-fit: contain; }
 .owner-note small { display: block; color: var(--ink-3); font-size: 11px; }
 .owner-note p { grid-column: 1 / -1; color: var(--ink-2); font-family: var(--serif); font-size: 15px; line-height: 1.55; }
 .book-card {
