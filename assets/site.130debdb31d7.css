@@ -1677,3 +1677,11 @@ section.block { padding: clamp(50px, 7vw, 110px) 0; position: relative; }
     transition-duration: 0.01ms !important;
   }
 }
+
+#reserveer, #tarieven { scroll-margin-top: 90px; }
+.nav-enquiry { padding: 10px 16px; font-size: 13px; }
+.booking-status { padding: 12px 0; border-top: 1px solid var(--rule); line-height: 1.5; }
+.local-card h3 { margin: 12px 0 6px; font-size: 21px; }
+.local-card > p { font-size: 14px; color: var(--ink-2); }
+.route-link { display: inline-flex; align-items: center; gap: 8px; margin-top: 18px; text-decoration: underline; }
+.contact-band > .btn { align-self: center; justify-self: start; }
