@@ -1034,20 +1034,17 @@ section.block { padding: clamp(50px, 7vw, 110px) 0; position: relative; }
   border: 1px solid var(--rule);
   display: flex; align-items: center; justify-content: center;
   flex-shrink: 0;
-  transition: all 0.2s ease;
+  transition: transform 0.2s ease, background-color 0.2s ease, color 0.2s ease;
   font-size: 18px;
   color: var(--ink-2);
 }
 .faq-item.open .faq-q .plus { background: var(--sea-deep); color: var(--bg); transform: rotate(45deg); }
 .faq-a {
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.3s ease, padding 0.2s ease;
+  padding-top: 14px;
   color: var(--ink-2);
   font-size: 15px;
   line-height: 1.65;
 }
-.faq-item.open .faq-a { max-height: 400px; padding-top: 14px; }
 
 /* ---- Reservation Widget ---- */
 .book-section {
